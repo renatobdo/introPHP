@@ -6,6 +6,7 @@ A plataforma que iremos utilizar é o moodle cujo link é <s>https://moodle.gru.
 
 # VideoAulas
 
+https://youtube.com/playlist?list=PL4RrGNFxTW3GIgRulySrOJtsRB40o-lf3
 
 # Aulas
 
