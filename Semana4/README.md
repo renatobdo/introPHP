@@ -13,4 +13,5 @@
 # Leitura Complementar
 
 https://www.w3schools.com/php/php_mysql_create_table.asp
+
 https://www.mysqltutorial.org/mysql-drop-column/
