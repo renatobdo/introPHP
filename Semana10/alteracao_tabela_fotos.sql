@@ -1,0 +1,8 @@
+alter table fotos add data date;
+alter table fotos add texto varchar(2000);
+alter table fotos add titulo varchar(255);
+
+select * from fotos;
+INSERT INTO `fotos`(`caminho`, `artigo_id`, `data`, `texto`, `titulo`) 
+VALUES ('assets/img/fotosHistoricas/pia23122c-16_1067.jpg',3,'2023-05-04',
+'A brilhante galáxia elíptica Messier 87 (M87) é o lar do buraco negro supermassivo capturado em 2017 pelo Event Horizon Telescope do planeta Terra na primeira imagem de um buraco negro. Gigante do aglomerado de galáxias de Virgem a cerca de 55 milhões de anos-luz de distância, M87 é a grande galáxia renderizada em tons de azul nesta imagem infravermelha do telescópio espacial Spitzer. Embora M87 pareça quase sem características e semelhante a uma nuvem, a imagem do Spitzer registra detalhes de jatos relativísticos saindo da região central da galáxia. Mostrado na inserção no canto superior direito, os próprios jatos se estendem por milhares de anos-luz. O jato mais brilhante visto à direita está se aproximando e próximo de nossa linha de visão. Do lado oposto, o choque criado pelo jato que, de outra forma, não era visto, ilumina um arco mais fraco de material. Inserido no canto inferior direito, a imagem histórica do buraco negro é mostrada no contexto, no centro da galáxia gigante e dos jatos relativísticos. Completamente não resolvido na imagem do Spitzer, o buraco negro supermassivo cercado por material em queda é a fonte de uma enorme energia que impulsiona os jatos relativísticos do centro da galáxia ativa M87. A imagem do Event Horizon Telescope de M87 agora foi aprimorada para revelar uma visão mais nítida do famoso buraco negro supermassivo. Na NASA: Semana do Buraco Negro','A Galáxia, o Jato e um Famoso Buraco Negro')
