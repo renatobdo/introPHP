@@ -1,0 +1,1 @@
+alter table artigos add referencias varchar(1000) after conteudo;
