@@ -1,0 +1,6 @@
+{
+    "require": {
+        "composer/composer": "^2.0",
+        "google/cloud-translate": "^1.13"
+    }
+}

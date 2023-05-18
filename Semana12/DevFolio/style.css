@@ -1,0 +1,11 @@
+.input-pequeno {
+    width: 20px;
+    margin-left: 10px;
+  }
+
+.my-input {
+    margin-left: 600px; /* ajuste o valor conforme necessário */
+}
+.row{
+    margin-left: 200px;
+}
