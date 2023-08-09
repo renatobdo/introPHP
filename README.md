@@ -14,9 +14,9 @@ Encontros no meet toda <s>quinta-feira</s> quarta-feira das 19h às 21h45min htt
 
 # Dúvidas
 
-Estou disponível para esclarecimento de dúvidas na quinta-feira terça-feira das 17h10 às 18h10 ou sábados das 11h ao 12h. Nesses horários quando quiserem conversar comigo enviem e-mail pra marcar. Dessa forma, irei abrir a sala do google meet para esclarecimento de dúvidas no endereço: https://meet.google.com/trwyxfq-drc
+Estou disponível para esclarecimento de dúvidas na <s>quinta-feira</s> terça-feira das 17h10 às 18h10 ou sábados das 11h ao 12h. Nesses horários quando quiserem conversar comigo enviem e-mail pra marcar. Dessa forma, irei abrir a sala do google meet para esclarecimento de dúvidas no endereço: https://meet.google.com/trwyxfq-drc
 
 # Grupo de WhatsApp
 
-Acesse este link para entrar no meu grupo do WhatsApp:<s> https://chat.whatsapp.com/BvDMaULq2xnGmPO7kvD7Kj</s>
+Acesse este link para entrar no meu grupo do WhatsApp:<s>https://chat.whatsapp.com/BvDMaULq2xnGmPO7kvD7Kj</s>
 https://chat.whatsapp.com/Cu3fuE98dLr7o2bDX3lT3A 
